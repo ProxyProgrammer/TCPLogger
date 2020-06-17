@@ -20,7 +20,7 @@ while True:
 	http_response = """\
 HTTP/1.1 200 OK
 
-This is a logger
+This is what is being Displayed on the Server
 
 """
 
